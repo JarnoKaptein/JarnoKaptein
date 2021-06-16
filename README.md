@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @JarnoKaptein.
+- 👀 I’m interested in Help.
+- 🌱 I’m currently learning More Python.
+- 💞️ I’m looking to collaborate on nothing atm, but i appreciate help :).
