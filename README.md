@@ -5,8 +5,9 @@
 
 ```python
 def jarno():
-  pronounce="He / Him"
-  languages=["python", "html", "css", "javascript", "php"]
-  age=13
-  hobbys=["Piano", "Swimming", "Coding"]
+  country = "The Netherlands"
+  pronounce = "He / Him"
+  languages = ["python", "html", "css", "javascript", "php"]
+  age = 13
+  hobbys = ["Piano", "Swimming", "Coding"]
 ```
