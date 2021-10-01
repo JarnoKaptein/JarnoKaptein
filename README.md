@@ -1,1 +1,12 @@
-<h2><img src="https://i.pinimg.com/originals/b6/13/97/b61397e99432b2b303898e2f08a3f1c2.jpg" width="50"></h2>
+<h2>👋 Hi, my name is Jarno Kaptein!</h2>
+<p><em><a href="https://www.python.org/">Python</a> is my favourite coding language!<br>Currently studying <a href="https://github.com/Rapptz/discord.py">Discord.py</a> & <a href ="https://github.com/nextcord/nextcord">Nextcord!</a></em></p>
+
+### Even more about me... 👨‍💻
+
+```python
+def jarno():
+  pronounce="He / Him"
+  languages=["python", "html", "css", "javascript", "php"]
+  age=13
+  hobbys=["Piano", "Swimming", "Coding"]
+```
